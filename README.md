@@ -13,6 +13,14 @@
 - 📄 Know about my experiences - [CV](https://drive.google.com/file/d/10q5U9Bf4g1Tx_gc1aUQfl4quG7aVE3v7/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
+<p>
+  <a href="https://github.com/imran-baitham" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=zahid726&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
+  </a>
+  <a href="https://github.com/imran-baitham" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=zahid726&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="BBShark's GitHub Stats" height="180px"/>
+  </a>
+ </p>
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -31,16 +39,7 @@
   <br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <div/>
-
-<p>
-  <a href="https://github.com/imran-baitham" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=zahid726&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
-  </a>
-  <a href="https://github.com/imran-baitham" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=zahid726&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="BBShark's GitHub Stats" height="180px"/>
-  </a>
- </p>
-
+<br></br>
   
   <br></br>
     <img src="https://activity-graph.herokuapp.com/graph?username=zahid726&theme=redical&hide_border=true">
