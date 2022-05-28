@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zahid Hussain</h1>
-<h3 align="center">A passionate Frontend Developer from Pakistan</h3>
-<img alt="Coding" align="center" src="https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80">
+<h3 align="center">A passionate Frontend Developer</h3>
+<img alt="Coding" height="300" align="center" src="https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safciezgi&label=Profile%20views&color=0e75b6&style=plastic" alt="safciezgi" /> </p>
 
