@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Angular, React Native**
 
-- 💬 Ask me about **anything [here](https://tr.linkedin.com/in/ezgisaf%C3%A7%C4%B1)**
+- 💬 Ask me about **anything [here](https://www.linkedin.com/in/zahid-hussain-721825222/)**
 
-- 📄 Know about my experiences - [CV](https://drive.google.com/file/d/10q5U9Bf4g1Tx_gc1aUQfl4quG7aVE3v7/view?usp=sharing)
+- 📄 Know about my experiences - [CV](##)
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
