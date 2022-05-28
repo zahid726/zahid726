@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Zahid Hussain</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
-<img alt="Coding" height="300" width="500" src="https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safciezgi&label=Profile%20views&color=0e75b6&style=plastic" alt="safciezgi" /> </p>
 
-- 🎓 I graduated from **Atılım University** with bachelor degree in **Computer Engineering**
+- 🎓 I graduated from **KIU University** with bachelor degree in **Computer Engineering**
 - 🔭 Currently working on **Front-End technologies**
 
 - 🌱 I’m currently learning **Angular, React Native**
 
-- 💬 Ask me about **anything via [here](https://tr.linkedin.com/in/ezgisaf%C3%A7%C4%B1)**
+- 💬 Ask me about **anything [here](https://tr.linkedin.com/in/ezgisaf%C3%A7%C4%B1)**
 
 - 📄 Know about my experiences - [CV](https://drive.google.com/file/d/10q5U9Bf4g1Tx_gc1aUQfl4quG7aVE3v7/view?usp=sharing)
 
