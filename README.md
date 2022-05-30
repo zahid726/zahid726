@@ -2,16 +2,11 @@
 <h3 align="center">A passionate Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safciezgi&label=Profile%20views&color=0e75b6&style=plastic" alt="safciezgi" /> </p>
-
-- 🎓 I graduated from **KIU University** with bachelor degree in **Computer Engineering**
-- 🔭 Currently working on **Front-End technologies**
-
-- 🌱 I’m currently learning **Angular, React Native**
-
+- 🎓 I graduated from **KKarakoram International University Gilgit** with bachelor degree in **Computer Science**
+- 🔭 Currently working as Front End Developer and hand-on expertise with JavaScript app development.
+- 🌱 My tech stacks are **React, Redux, React Query, GraphQL, NextJS, TailwindUI, MaterialUI and more**
 - 💬 Ask me about **anything [here](https://www.linkedin.com/in/zahid-hussain-721825222/)**
-
-- 📄 Know about my experiences - [CV](##)
-
+- 
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <a href="https://github.com/zahid726" >
