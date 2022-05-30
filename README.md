@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safciezgi&label=Profile%20views&color=0e75b6&style=plastic" alt="safciezgi" /> </p>
 - 🎓 I graduated from **KKarakoram International University Gilgit** with bachelor degree in **Computer Science**
-- 
+
 - 🔭 Currently working as Front End Developer and hand-on expertise with JavaScript app development.
 
 - 🌱 My tech stacks are **React, Redux, React Query, GraphQL, NextJS, TailwindUI, MaterialUI and more**
