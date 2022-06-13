@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Zahid Hussain</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safciezgi&label=Profile%20views&color=0e75b6&style=plastic" alt="safciezgi" /> </p>
 - 🎓 I graduated from **Karakoram International University Gilgit** with bachelor degree in **Computer Science**.
