@@ -40,6 +40,4 @@
 I'm a passionate🥇, creative🎨 and perceptive🔭 Javascript Engineer with a hands-on approach to problem-solving and an unending thirst for knowledge🎓.I'm always open to new ideas and opportunities.
 
   <br></br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=zahid726&theme=redical&hide_border=true">
-<br></br>
 
